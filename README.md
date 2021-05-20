@@ -1,2 +1,2 @@
-20195302	Jang junwoo
-kookmin Univ.SW .dpt
+20195302:Jang Junwoo
+kookmin Univ. SW dept.
